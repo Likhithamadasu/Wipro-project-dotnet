@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\bin\Debug\Connections_database.exe.config
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\bin\Debug\Connections_database.exe
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\bin\Debug\Connections_database.pdb
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\obj\Debug\Connections_database.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\obj\Debug\Connections_database.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\obj\Debug\Connections_database.exe
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\obj\Debug\Connections_database.pdb
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Administrator\source\repos\Connections_database\Connections_database\obj\Debug\Connecti.741E85AB.Up2Date

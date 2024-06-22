@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\bin\Debug\Connect-Database.exe.config
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\bin\Debug\Connect-Database.exe
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\bin\Debug\Connect-Database.pdb
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\obj\Debug\Connect-Database.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\obj\Debug\Connect-Database.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\obj\Debug\Connect-Database.exe
+C:\Users\Administrator\source\repos\Connect-Database\Connect-Database\obj\Debug\Connect-Database.pdb

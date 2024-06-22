@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\bin\Debug\LINQ3 (a,b,c).exe.config
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\bin\Debug\LINQ3 (a,b,c).exe
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\bin\Debug\LINQ3 (a,b,c).pdb
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\obj\Debug\LINQ3 (a,b,c).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\obj\Debug\LINQ3 (a,b,c).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\obj\Debug\LINQ3 (a,b,c).exe
+C:\Users\Administrator\source\repos\LINQ3 (a,b,c)\LINQ3 (a,b,c)\obj\Debug\LINQ3 (a,b,c).pdb

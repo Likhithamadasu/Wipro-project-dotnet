@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Data_Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9BBF6-7552-4124-9312-DB4F393EF23C}|Data_Base\\Data_Base.csproj|c:\\users\\administrator\\source\\repos\\data_base\\data_base\\model11.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9BBF6-7552-4124-9312-DB4F393EF23C}|Data_Base\\Data_Base.csproj|solutionrelative:data_base\\model11.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9BBF6-7552-4124-9312-DB4F393EF23C}|Data_Base\\Data_Base.csproj|c:\\users\\administrator\\source\\repos\\data_base\\data_base\\model11.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8DF9BBF6-7552-4124-9312-DB4F393EF23C}|Data_Base\\Data_Base.csproj|solutionrelative:data_base\\model11.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model11.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Data_Base\\Data_Base\\Model11.Context.cs",
+              "RelativeDocumentMoniker": "Data_Base\\Model11.Context.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Data_Base\\Data_Base\\Model11.Context.cs",
+              "RelativeToolTip": "Data_Base\\Model11.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:26:01.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model11.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Data_Base\\Data_Base\\Model11.edmx",
+              "RelativeDocumentMoniker": "Data_Base\\Model11.edmx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Data_Base\\Data_Base\\Model11.edmx [Diagram1]",
+              "RelativeToolTip": "Data_Base\\Model11.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-21T12:23:41.957Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

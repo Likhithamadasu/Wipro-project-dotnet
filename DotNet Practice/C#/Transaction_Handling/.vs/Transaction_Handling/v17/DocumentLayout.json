@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Transaction_Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F02651-16F4-4BAB-9D03-470DB4A5B4BE}|Transaction_Handling\\Transaction_Handling.csproj|c:\\users\\administrator\\source\\repos\\transaction_handling\\transaction_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F02651-16F4-4BAB-9D03-470DB4A5B4BE}|Transaction_Handling\\Transaction_Handling.csproj|solutionrelative:transaction_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F02651-16F4-4BAB-9D03-470DB4A5B4BE}|Transaction_Handling\\Transaction_Handling.csproj|c:\\users\\administrator\\source\\repos\\transaction_handling\\transaction_handling\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{05F02651-16F4-4BAB-9D03-470DB4A5B4BE}|Transaction_Handling\\Transaction_Handling.csproj|solutionrelative:transaction_handling\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Transaction_Handling\\Transaction_Handling\\App.config",
+              "RelativeDocumentMoniker": "Transaction_Handling\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Transaction_Handling\\Transaction_Handling\\App.config",
+              "RelativeToolTip": "Transaction_Handling\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-20T12:10:39.415Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Transaction_Handling\\Transaction_Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Transaction_Handling\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Transaction_Handling\\Transaction_Handling\\Program.cs",
+              "RelativeToolTip": "Transaction_Handling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:24:12.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

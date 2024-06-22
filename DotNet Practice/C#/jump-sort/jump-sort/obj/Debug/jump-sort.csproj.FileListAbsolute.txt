@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\bin\Debug\jump-sort.exe.config
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\bin\Debug\jump-sort.exe
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\bin\Debug\jump-sort.pdb
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\obj\Debug\jump-sort.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\obj\Debug\jump-sort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\obj\Debug\jump-sort.exe
+C:\Users\Administrator\source\repos\jump-sort\jump-sort\obj\Debug\jump-sort.pdb

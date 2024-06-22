@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack methods", "stack methods\stack methods.csproj", "{785B486C-2734-4DD9-9BDF-B24BE146CA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785B486C-2734-4DD9-9BDF-B24BE146CA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785B486C-2734-4DD9-9BDF-B24BE146CA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785B486C-2734-4DD9-9BDF-B24BE146CA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785B486C-2734-4DD9-9BDF-B24BE146CA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAE20DE-6FB1-4B89-B75A-ACD062BAF5AA}
+	EndGlobalSection
+EndGlobal

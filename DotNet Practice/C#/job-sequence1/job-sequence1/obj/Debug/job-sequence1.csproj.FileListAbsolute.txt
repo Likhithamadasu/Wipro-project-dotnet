@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\bin\Debug\job-sequence1.exe.config
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\bin\Debug\job-sequence1.exe
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\bin\Debug\job-sequence1.pdb
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\obj\Debug\job-sequence1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\obj\Debug\job-sequence1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\obj\Debug\job-sequence1.exe
+C:\Users\Administrator\source\repos\job-sequence1\job-sequence1\obj\Debug\job-sequence1.pdb

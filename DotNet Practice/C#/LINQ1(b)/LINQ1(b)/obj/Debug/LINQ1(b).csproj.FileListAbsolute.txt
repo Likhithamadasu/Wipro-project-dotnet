@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\bin\Debug\LINQ1(b).exe.config
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\bin\Debug\LINQ1(b).exe
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\bin\Debug\LINQ1(b).pdb
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\obj\Debug\LINQ1(b).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\obj\Debug\LINQ1(b).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\obj\Debug\LINQ1(b).exe
+C:\Users\Administrator\source\repos\LINQ1(b)\LINQ1(b)\obj\Debug\LINQ1(b).pdb

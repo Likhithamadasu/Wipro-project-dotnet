@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\bin\Debug\NumberSwapper.exe.config
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\bin\Debug\NumberSwapper.exe
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\bin\Debug\NumberSwapper.pdb
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\obj\Debug\NumberSwapper.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\obj\Debug\NumberSwapper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\obj\Debug\NumberSwapper.exe
+C:\Users\Administrator\source\repos\NumberSwapper\NumberSwapper\obj\Debug\NumberSwapper.pdb

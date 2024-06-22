@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\stack methods\stack methods\bin\Debug\stack methods.exe.config
+C:\Users\Administrator\source\repos\stack methods\stack methods\bin\Debug\stack methods.exe
+C:\Users\Administrator\source\repos\stack methods\stack methods\bin\Debug\stack methods.pdb
+C:\Users\Administrator\source\repos\stack methods\stack methods\obj\Debug\stack methods.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\stack methods\stack methods\obj\Debug\stack methods.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\stack methods\stack methods\obj\Debug\stack methods.exe
+C:\Users\Administrator\source\repos\stack methods\stack methods\obj\Debug\stack methods.pdb

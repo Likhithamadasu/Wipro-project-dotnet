@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\bin\Debug\Transaction_Handling.exe.config
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\bin\Debug\Transaction_Handling.exe
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\bin\Debug\Transaction_Handling.pdb
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\obj\Debug\Transaction_Handling.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\obj\Debug\Transaction_Handling.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\obj\Debug\Transaction_Handling.exe
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\obj\Debug\Transaction_Handling.pdb
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\Transaction_Handling\Transaction_Handling\obj\Debug\Transact.6C37DBDC.Up2Date

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\bin\Debug\Reflection3.exe.config
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\bin\Debug\Reflection3.exe
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\bin\Debug\Reflection3.pdb
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\obj\Debug\Reflection3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\obj\Debug\Reflection3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\obj\Debug\Reflection3.exe
+C:\Users\Administrator\source\repos\Reflection3\Reflection3\obj\Debug\Reflection3.pdb

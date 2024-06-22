@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\count of characters\count of characters\obj\Debug\count of characters.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\count of characters\count of characters\obj\Debug\count of characters.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\count of characters\count of characters\bin\Debug\count of characters.exe.config
+C:\Users\Administrator\source\repos\count of characters\count of characters\bin\Debug\count of characters.exe
+C:\Users\Administrator\source\repos\count of characters\count of characters\bin\Debug\count of characters.pdb
+C:\Users\Administrator\source\repos\count of characters\count of characters\obj\Debug\count of characters.exe
+C:\Users\Administrator\source\repos\count of characters\count of characters\obj\Debug\count of characters.pdb

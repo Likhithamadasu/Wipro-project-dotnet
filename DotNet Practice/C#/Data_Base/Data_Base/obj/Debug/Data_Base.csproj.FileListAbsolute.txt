@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\Data_Base.exe.config
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\Data_Base.exe
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\Data_Base.pdb
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\obj\Debug\Data_Base.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\obj\Debug\Data_Base.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\obj\Debug\Data_Base.csproj.Up2Date
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\obj\Debug\Data_Base.exe
+C:\Users\Administrator\source\repos\Data_Base\Data_Base\obj\Debug\Data_Base.pdb

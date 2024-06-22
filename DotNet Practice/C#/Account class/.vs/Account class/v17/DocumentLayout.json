@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Account class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A75D873F-FC9C-49B7-A396-7FCE27E94D27}|Account class\\Account class.csproj|c:\\users\\administrator\\source\\repos\\account class\\account class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75D873F-FC9C-49B7-A396-7FCE27E94D27}|Account class\\Account class.csproj|solutionrelative:account class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Account class\\Account class\\Program.cs",
+              "RelativeDocumentMoniker": "Account class\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Account class\\Account class\\Program.cs",
+              "RelativeToolTip": "Account class\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:42:45.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

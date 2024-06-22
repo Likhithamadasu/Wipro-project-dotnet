@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Database532\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|c:\\users\\administrator\\source\\repos\\database532\\database532\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|solutionrelative:database532\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|c:\\users\\administrator\\source\\repos\\database532\\database532\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|solutionrelative:database532\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|c:\\users\\administrator\\source\\repos\\database532\\database532\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|solutionrelative:database532\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|c:\\users\\administrator\\source\\repos\\database532\\database532\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|solutionrelative:database532\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|c:\\users\\administrator\\source\\repos\\database532\\database532\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|solutionrelative:database532\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|c:\\users\\administrator\\source\\repos\\database532\\database532\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{89E7F790-AF6B-457B-88D3-3CA94FC8EE1C}|Database532\\Database532.csproj|solutionrelative:database532\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Database532\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Model1.Context.cs",
+              "RelativeToolTip": "Database532\\Model1.Context.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:59:09.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bloggingcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Bloggingcontext.cs",
+              "RelativeDocumentMoniker": "Database532\\Bloggingcontext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Bloggingcontext.cs",
+              "RelativeToolTip": "Database532\\Bloggingcontext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:31:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Posts.cs",
+              "RelativeDocumentMoniker": "Database532\\Posts.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Posts.cs",
+              "RelativeToolTip": "Database532\\Posts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:29:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blogs.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Blogs.cs",
+              "RelativeDocumentMoniker": "Database532\\Blogs.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Blogs.cs",
+              "RelativeToolTip": "Database532\\Blogs.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:28:37.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Model1.edmx",
+              "RelativeDocumentMoniker": "Database532\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Database532\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-21T11:27:32.88Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Program.cs",
+              "RelativeDocumentMoniker": "Database532\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Database532\\Database532\\Program.cs",
+              "RelativeToolTip": "Database532\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:20:58.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

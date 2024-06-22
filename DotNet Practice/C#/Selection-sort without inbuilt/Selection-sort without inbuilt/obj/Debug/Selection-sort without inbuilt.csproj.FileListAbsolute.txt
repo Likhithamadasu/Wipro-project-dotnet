@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\bin\Debug\Selection-sort without inbuilt.exe.config
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\bin\Debug\Selection-sort without inbuilt.exe
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\bin\Debug\Selection-sort without inbuilt.pdb
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\obj\Debug\Selection-sort without inbuilt.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\obj\Debug\Selection-sort without inbuilt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\obj\Debug\Selection-sort without inbuilt.exe
+C:\Users\Administrator\source\repos\Selection-sort without inbuilt\Selection-sort without inbuilt\obj\Debug\Selection-sort without inbuilt.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\bin\Debug\connection_sql.exe.config
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\bin\Debug\connection_sql.exe
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\bin\Debug\connection_sql.pdb
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\obj\Debug\connection_sql.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\obj\Debug\connection_sql.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\obj\Debug\connecti.C084362B.Up2Date
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\obj\Debug\connection_sql.exe
+C:\Users\Administrator\source\repos\connection_sql\connection_sql\obj\Debug\connection_sql.pdb

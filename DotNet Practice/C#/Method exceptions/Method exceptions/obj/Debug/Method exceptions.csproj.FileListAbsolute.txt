@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\Method exceptions\Method exceptions\obj\Debug\Method exceptions.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Method exceptions\Method exceptions\obj\Debug\Method exceptions.csproj.CoreCompileInputs.cache

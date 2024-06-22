@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Count-number\Count-number\obj\Debug\Count-number.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Count-number\Count-number\obj\Debug\Count-number.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Count-number\Count-number\bin\Debug\Count-number.exe.config
+C:\Users\Administrator\source\repos\Count-number\Count-number\bin\Debug\Count-number.exe
+C:\Users\Administrator\source\repos\Count-number\Count-number\bin\Debug\Count-number.pdb
+C:\Users\Administrator\source\repos\Count-number\Count-number\obj\Debug\Count-number.exe
+C:\Users\Administrator\source\repos\Count-number\Count-number\obj\Debug\Count-number.pdb

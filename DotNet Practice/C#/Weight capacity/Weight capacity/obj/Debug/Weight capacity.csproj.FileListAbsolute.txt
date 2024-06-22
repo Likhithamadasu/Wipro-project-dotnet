@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\bin\Debug\Weight capacity.exe.config
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\bin\Debug\Weight capacity.exe
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\bin\Debug\Weight capacity.pdb
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\obj\Debug\Weight capacity.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\obj\Debug\Weight capacity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\obj\Debug\Weight capacity.exe
+C:\Users\Administrator\source\repos\Weight capacity\Weight capacity\obj\Debug\Weight capacity.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Read data\Read data\bin\Debug\Read data.exe.config
+C:\Users\Administrator\source\repos\Read data\Read data\bin\Debug\Read data.exe
+C:\Users\Administrator\source\repos\Read data\Read data\bin\Debug\Read data.pdb
+C:\Users\Administrator\source\repos\Read data\Read data\obj\Debug\Read data.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Read data\Read data\obj\Debug\Read data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Read data\Read data\obj\Debug\Read data.exe
+C:\Users\Administrator\source\repos\Read data\Read data\obj\Debug\Read data.pdb

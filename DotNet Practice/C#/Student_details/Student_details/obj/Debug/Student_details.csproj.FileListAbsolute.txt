@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Student_details\Student_details\bin\Debug\Student_details.exe.config
+C:\Users\Administrator\source\repos\Student_details\Student_details\bin\Debug\Student_details.exe
+C:\Users\Administrator\source\repos\Student_details\Student_details\bin\Debug\Student_details.pdb
+C:\Users\Administrator\source\repos\Student_details\Student_details\obj\Debug\Student_details.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Student_details\Student_details\obj\Debug\Student_details.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Student_details\Student_details\obj\Debug\Student_details.exe
+C:\Users\Administrator\source\repos\Student_details\Student_details\obj\Debug\Student_details.pdb

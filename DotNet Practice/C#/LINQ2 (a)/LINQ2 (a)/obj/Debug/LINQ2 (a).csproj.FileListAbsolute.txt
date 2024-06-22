@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\bin\Debug\LINQ2 (a).exe.config
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\bin\Debug\LINQ2 (a).exe
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\bin\Debug\LINQ2 (a).pdb
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\obj\Debug\LINQ2 (a).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\obj\Debug\LINQ2 (a).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\obj\Debug\LINQ2 (a).exe
+C:\Users\Administrator\source\repos\LINQ2 (a)\LINQ2 (a)\obj\Debug\LINQ2 (a).pdb
