@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net-Practice1\\RegistrationForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|c:\\.net-practice1\\registrationform\\registrationform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|c:\\.net-practice1\\registrationform\\registrationform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|c:\\.net-practice1\\registrationform\\registrationform\\registrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\registrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|c:\\.net-practice1\\registrationform\\registrationform\\registrationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D57E10-5C05-49BB-8C4A-D7C7B16D94CF}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\registrationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationContext.cs",
+              "DocumentMoniker": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\RegistrationContext.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\RegistrationContext.cs",
+              "ToolTip": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\RegistrationContext.cs",
+              "RelativeToolTip": "RegistrationForm\\RegistrationContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:41:16.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationDetail.cs",
+              "DocumentMoniker": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\RegistrationDetail.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\RegistrationDetail.cs",
+              "ToolTip": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\RegistrationDetail.cs",
+              "RelativeToolTip": "RegistrationForm\\RegistrationDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:40:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RegistrationForm\\MainWindow.xaml",
+              "ToolTip": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\MainWindow.xaml",
+              "RelativeToolTip": "RegistrationForm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T15:35:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\.Net-Practice1\\RegistrationForm\\RegistrationForm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RegistrationForm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:35:14.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
