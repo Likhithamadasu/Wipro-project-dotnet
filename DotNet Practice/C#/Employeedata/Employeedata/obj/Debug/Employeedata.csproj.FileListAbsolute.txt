@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\bin\Debug\Employeedata.exe.config
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\bin\Debug\Employeedata.exe
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\bin\Debug\Employeedata.pdb
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\obj\Debug\Employeedata.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\obj\Debug\Employeedata.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\obj\Debug\Employeedata.exe
+C:\Users\Administrator\source\repos\Employeedata\Employeedata\obj\Debug\Employeedata.pdb
