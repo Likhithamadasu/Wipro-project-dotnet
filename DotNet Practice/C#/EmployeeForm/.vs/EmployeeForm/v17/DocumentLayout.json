@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427048F1-E7F9-46CF-B14E-11031B3232DB}|Solution Items{427048F1-E7F9-46CF-B14E-11031B3232DB}|C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\Validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{427048F1-E7F9-46CF-B14E-11031B3232DB}|Solution Items{427048F1-E7F9-46CF-B14E-11031B3232DB}|solutionrelative:Validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427048F1-E7F9-46CF-B14E-11031B3232DB}|Solution Items{427048F1-E7F9-46CF-B14E-11031B3232DB}|C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{427048F1-E7F9-46CF-B14E-11031B3232DB}|Solution Items{427048F1-E7F9-46CF-B14E-11031B3232DB}|solutionrelative:Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validation.js",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\Validation.js",
+              "RelativeDocumentMoniker": "Validation.js",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\Validation.js",
+              "RelativeToolTip": "Validation.js",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwKkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-28T10:11:01.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\Index.html",
+              "RelativeDocumentMoniker": "Index.html",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EmployeeForm\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAgwJIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-28T10:08:39.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
