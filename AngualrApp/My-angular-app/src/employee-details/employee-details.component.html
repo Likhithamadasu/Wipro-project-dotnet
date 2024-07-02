@@ -1,0 +1,11 @@
+<div>
+    <input [(ngModel)]="employee.firstName" placeholder="First Name">
+    <label>{{ employee.firstName | titleCase }}</label>
+    <input [(ngModel)]="employee.country" placeholder="Country">
+    <label>{{ employee.country }}</label>
+</div>
+
+<div>
+    First Name: {{employee.firstName}}<br>
+    Country: {{ employee.country}}
+    </div>

@@ -1,0 +1,23 @@
+.highlight-green {
+    background-color:green(221, 112, 112) ;
+    color: white;
+}
+
+
+.highlight-red {
+     background-color: red(154, 197, 154);
+     color: white;
+}
+
+table{
+    width: 100;
+}
+
+th, td{
+    padding: 8px;
+    text-align: left;
+}
+
+h3{
+    text-align: center;
+}

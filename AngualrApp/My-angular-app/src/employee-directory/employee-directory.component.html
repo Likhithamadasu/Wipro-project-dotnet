@@ -1,0 +1,16 @@
+<div>
+    <h3>Employee List</h3>
+
+<table border="1" style="border-collapse: collapse;">
+    <tr>
+        <th>Title</th>
+        <th>Country</th>
+        <th>Salary</th>
+    </tr>
+    <tr *ngFor="let emp of employees" [ngClass]="{'highlight-red': emp.salary  < 5000,'highlight-green: emp.salary >=5000'}">
+        <td>{{ emp.name }}</td>
+        <td>{{ emp.country }}</td>
+        <td>{{ emp.salary  | currency}}</td>
+    </tr>
+</table>
+</div>
