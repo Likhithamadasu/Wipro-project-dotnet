@@ -1,0 +1,8 @@
+
+{
+	"employees":[
+	     {"code":1, "name":"Likhitha", "gender":"Female", "salary":4000, "dob":"01/01/2000"},
+		 {"code":2, "name":"Jayanth", "gender":"Male", "salary":5000, "dob":"01/01/2001"},
+		 {"code":3, "name":"Haswin", "gender":"Female", "salary":8000, "dob":"01/01/2001"}
+	]
+}

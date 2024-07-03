@@ -1,0 +1,10 @@
+{
+    "employees":[
+        { "firstName": "Likhitha", "country": "USA", "salary": 9000},
+        { "firstName": "Jayanth", "country": "Uk", "salary": 8000},
+        { "firstName": "Haswin", "country": "Australia", "salary": 5000},
+        { "firstName": "Jashritha", "country": "India", "salary": 4000}
+
+        
+    ]
+}

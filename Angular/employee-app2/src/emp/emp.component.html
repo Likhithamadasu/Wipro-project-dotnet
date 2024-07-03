@@ -1,0 +1,27 @@
+<!-- <style>
+    table{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: larger;
+
+    }
+</style> -->
+
+<table  class="table" border="1">
+    <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Action</th>
+    </tr>
+    <td>
+        {{name}}
+    </td>
+    <td>
+        {{gender}}
+    </td>
+    <!-- <td [attr.colspan]="colspanNumber">{{gender}}</td> -->
+    <td *ngIf='showDetail' attr.colspan="{{colspanNumber}}">{{gender}}</td>
+</table>
+
+<button (click)="GoBack()" >
+    Go Back to Employee List
+</button>

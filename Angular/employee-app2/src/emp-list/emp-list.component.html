@@ -1,0 +1,21 @@
+<h1>Employee List Content</h1>
+<table class="table" border="1">
+    <tr>
+        <th>Code</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Salary</th>
+        <th>Date of Birth</th>
+    </tr>
+    <tr *ngFor="let emp of employees" >
+        <td>{{emp.code}}</td>
+        <td>{{emp.name | empTitle : emp.gender }}</td>
+        <td>{{emp.gender | lowercase}}</td>
+        <td>{{emp.salary | currency :'INR'}}</td>
+        <td>{{emp.dob | date:'fullDate' | uppercase}}</td>
+        <td><a [routerLink]="['/emp-data', emp.code]">{{emp.name}}</a></td>
+    </tr>
+    <tr *ngIf="employees.length==0" >
+        <td  colspan="4">No employee Found</td>
+    </tr>
+</table>
