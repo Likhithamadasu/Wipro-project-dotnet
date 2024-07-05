@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "d15f",
+      "firstName": "sai",
+      "middleName": "charan",
+      "lastName": "reddy",
+      "age": 23,
+      "dateOfBirth": "2024-07-04",
+      "emailId": "saicharanreddy1501@gmail.com",
+      "country": "USA",
+      "gender": "Male"
+    },
+    {
+      "id": "1566",
+      "firstName": "sai",
+      "middleName": "charan",
+      "lastName": "reddy",
+      "age": 23,
+      "dateOfBirth": "2024-07-04",
+      "emailId": "saicharanreddy1501@gmail.com",
+      "country": "USA",
+      "gender": "Male"
+    },
+    {
+      "id": "ca20",
+      "firstName": "virat",
+      "middleName": "k",
+      "lastName": "kohli",
+      "age": 23,
+      "dateOfBirth": "2024-07-04",
+      "emailId": "viratkohli1501@gmail.com",
+      "country": "USA",
+      "gender": "Male"
+    }
+  ]
+}

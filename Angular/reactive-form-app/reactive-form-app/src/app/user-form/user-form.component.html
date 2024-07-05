@@ -1,0 +1,145 @@
+<form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+  <!-- First Row -->
+  <div class="form-group">
+    <label for="firstName">First Name</label>
+    <input id="firstName" formControlName="firstName" />
+    <div *ngIf="userForm.get('firstName')!.invalid && userForm.get('firstName')!.touched">
+      <small>Please provide First Name</small>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="middleName">Middle Name</label>
+    <input id="middleName" formControlName="middleName" />
+  </div>
+
+  <div class="form-group">
+    <label for="lastName">Last Name</label>
+    <input id="lastName" formControlName="lastName" />
+    <div *ngIf="userForm.get('lastName')!.invalid && userForm.get('lastName')!.touched">
+      <small>Please provide Last Name</small>
+    </div>
+  </div>
+
+  <!-- Second Row -->
+  <div class="form-group">
+    <label for="age">Age</label>
+    <input id="age" formControlName="age" type="number" />
+    <div *ngIf="userForm.get('age')!.invalid && userForm.get('age')!.touched">
+      <small>Required and between 0 to 100</small>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="dateOfBirth">Date of Birth</label>
+    <input id="dateOfBirth" formControlName="dateOfBirth" type="date" />
+  </div>
+
+  <div class="form-group">
+    <label>Gender</label>
+    <div class="radio-group">
+      <input type="radio" formControlName="gender" value="Male" /> Male
+      <input type="radio" formControlName="gender" value="Female" /> Female
+    </div>
+    <div *ngIf="userForm.get('gender')!.invalid && userForm.get('gender')!.touched">
+      <small>Please select gender</small>
+    </div>
+  </div>
+
+  <!-- Third Row -->
+  <div class="form-group">
+    <label for="emailId">Email Id</label>
+    <input id="emailId" formControlName="emailId" type="email" />
+    <div *ngIf="userForm.get('emailId')!.invalid && userForm.get('emailId')!.touched">
+      <small *ngIf="userForm.get('emailId')!.hasError('required')">Please provide Email Id</small>
+      <small *ngIf="userForm.get('emailId')!.hasError('email')">Email id must be valid</small>
+
+    </div>
+  </div>
+  
+
+  <div class="form-group">
+    <label for="country">Country</label>
+    <select id="country" formControlName="country">
+      <option value="" disabled>Select Country</option>
+      <option value="USA">USA</option>
+      <option value="Canada">Canada</option>
+      <option value="UK">UK</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <button type="submit">Submit</button>
+  </div>
+</form>
+
+<style>
+  /* Container for the form */
+  form {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Each form group (label + input) */
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Label styling */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  /* Input styling */
+  input, select {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+
+  /* Radio buttons container */
+  .radio-group {
+    display: flex;
+    align-items: center;
+  }
+
+  /* Radio buttons */
+  input[type="radio"] {
+    margin-right: 10px;
+  }
+
+  /* Button styling */
+  button {
+    padding: 15px 20px;
+    background-color: #0e80f1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  /* Error message styling */
+  small {
+    color: red;
+    display: block;
+    margin-top: 5px;
+  }
+</style>
