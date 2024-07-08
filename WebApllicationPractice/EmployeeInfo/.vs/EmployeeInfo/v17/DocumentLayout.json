@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\Web_Application\\EmployeeInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|c:\\wipro\\web_application\\employeeinfo\\employeeinfo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|c:\\wipro\\web_application\\employeeinfo\\employeeinfo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|c:\\wipro\\web_application\\employeeinfo\\employeeinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|c:\\wipro\\web_application\\employeeinfo\\employeeinfo\\migrations\\20240708110919_yashu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\migrations\\20240708110919_yashu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|c:\\wipro\\web_application\\employeeinfo\\employeeinfo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|c:\\wipro\\web_application\\employeeinfo\\employeeinfo\\employeeinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E009208-06FF-4A0F-AFA4-E3DA60EC5CC8}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\employeeinfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeInfo\\Program.cs",
+              "ToolTip": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Program.cs",
+              "RelativeToolTip": "EmployeeInfo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:14:34.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240708110919_yashu.cs",
+              "DocumentMoniker": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Migrations\\20240708110919_yashu.cs",
+              "RelativeDocumentMoniker": "EmployeeInfo\\Migrations\\20240708110919_yashu.cs",
+              "ToolTip": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Migrations\\20240708110919_yashu.cs",
+              "RelativeToolTip": "EmployeeInfo\\Migrations\\20240708110919_yashu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:09:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeInfo\\appsettings.json",
+              "ToolTip": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\appsettings.json",
+              "RelativeToolTip": "EmployeeInfo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T11:04:31.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeInfo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeInfo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwv1YAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:03:16.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeInfo",
+              "DocumentMoniker": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\EmployeeInfo.csproj",
+              "RelativeDocumentMoniker": "EmployeeInfo\\EmployeeInfo.csproj",
+              "ToolTip": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\EmployeeInfo.csproj",
+              "RelativeToolTip": "EmployeeInfo\\EmployeeInfo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T11:00:08.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeInfo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeInfo\\Models\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:42.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
