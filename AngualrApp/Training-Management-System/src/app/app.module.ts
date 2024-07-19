@@ -1,7 +1,7 @@
 // src/app/app.module.ts
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
+import { FormsModule } from '@angular/forms'; // <-- Import FormsModule
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -22,7 +22,7 @@ import { EmployeeComponent } from './employee/employee.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule,
+    FormsModule, // <-- Ensure FormsModule is included here
     HttpClientModule
   ],
   providers: [],

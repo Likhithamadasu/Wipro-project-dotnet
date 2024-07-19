@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\EmployeeInfo.csproj",
+      "projectUniqueName": "C:\\WiproProject\\WebApllicationPractice\\EmployeeInfo\\EmployeeInfo\\EmployeeInfo.csproj",
       "projectName": "EmployeeInfo",
-      "projectPath": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\EmployeeInfo.csproj",
+      "projectPath": "C:\\WiproProject\\WebApllicationPractice\\EmployeeInfo\\EmployeeInfo\\EmployeeInfo.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Wipro\\Web_Application\\EmployeeInfo\\EmployeeInfo\\obj\\",
+      "outputPath": "C:\\WiproProject\\WebApllicationPractice\\EmployeeInfo\\EmployeeInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10769,7 +10769,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
